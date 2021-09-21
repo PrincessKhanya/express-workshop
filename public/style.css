@@ -1,0 +1,29 @@
+body {
+	background-color: rgb(240, 227, 227);
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+	margin: auto;
+	background-color: lightgrey;
+	width: 80%;
+	padding: 1em;
+}
+
+
+.counter {
+	background-color: rgb(255, 255, 255);
+	font-size: 2em;
+	width: 3em;
+	text-align: center;
+	padding: 0.5em;
+	margin-bottom: 0.25em;
+}
+
+.reminder {
+    background-color: whitesmoke;
+    padding: 1em;
+    border-radius: 5px;
+    margin: 1em;
+
+}
